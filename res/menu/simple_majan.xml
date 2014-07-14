@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--
+    <item
+        android:id="@+id/menu_haiPaiView"
+        android:title="@string/menu_haiPaiView"
+    />
+    <item
+        android:id="@+id/menu_saveGame"
+        android:title="@string/menu_saveGame"
+    />
+    <item
+        android:id="@+id/menu_nnkr"
+        android:title="@string/menu_nnkr"
+    />
+-->
+    <item
+        android:id="@+id/menu_title"
+        android:title="@string/menu_title"
+    />
+    </menu>

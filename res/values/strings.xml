@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">麻雀ゼミナール</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="menu_haiPaiView">配牌確認</string>
+    <string name="menu_simpleGame">一人麻雀</string>
+    <string name="menu_saveGame">保存</string>
+    <string name="menu_nnkr">何切る</string>
+    <string name="menu_title">タイトル画面</string>
+
+    <string name="before_question">前の問題へ戻る</string>
+
+</resources>
